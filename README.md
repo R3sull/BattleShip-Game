@@ -4,4 +4,4 @@ I made this Battleship game because I was bored for an estimated 2-3 hours. I kn
 
 # Requirements
 
-- Visuat Studio 
+- Visual Studio 
